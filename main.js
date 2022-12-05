@@ -16,7 +16,7 @@ function draw() {
     tint(tint_color);
 }
 
-function take_snapshop() {
+function take_snapshot() {
     save('student_name.png');
 }
 
